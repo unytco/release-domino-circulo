@@ -1,4 +1,4 @@
-# Domino Releases
+# Domino-Circulo Releases
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/unytco/release-domino-circulo?style=for-the-badge)
 ![GitHub All Releases](https://img.shields.io/github/downloads/unytco/release-domino-circulo/total?style=for-the-badge)
 
